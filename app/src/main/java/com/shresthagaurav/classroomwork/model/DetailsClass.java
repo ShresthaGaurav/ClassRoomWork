@@ -1,10 +1,10 @@
 package com.shresthagaurav.classroomwork.model;
 
 public class DetailsClass {
-    private String  name;
+    private String name;
     private String age;
     private String gender;
-private int imagenumber;
+    private int imagenumber;
 
     public DetailsClass(String name, String age, String gender, int imagenumber) {
         this.name = name;
